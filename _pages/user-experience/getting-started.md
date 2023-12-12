@@ -52,13 +52,13 @@ All partners with identity verification will [create a Failure to Proof URL]({{s
 
 <ul>
   <li class="usa-icon-list__item">
-    {% include green_icon.html content=button_ux %}       
+    {% include check_icon.html content=button_ux style="text-green" %}       
   </li>
   <li class="usa-icon-list__item">
-    {% include green_icon.html content=failure_to_proof_ux %}
+    {% include check_icon.html content=failure_to_proof_ux style="text-green" %}
   </li>
   <li class="usa-icon-list__item">
-    {% include green_icon.html content=faq_ux %}
+    {% include check_icon.html content=faq_ux style="text-green" %}
   </li>
 </ul>
 
@@ -66,13 +66,13 @@ All partners with identity verification will [create a Failure to Proof URL]({{s
 
 <ul class="padding-bottom-4">
  <li class="usa-icon-list__item">
-    {% include green_icon.html content=logo_ux %}
+    {% include check_icon.html content=logo_ux style="text-green" %}
  </li>
  <li class="usa-icon-list__item">
-    {% include green_icon.html content=cancel_url_ux %}
+    {% include check_icon.html content=cancel_url_ux style="text-green" %}
  </li>
  <li class="usa-icon-list__item">
-    {% include green_icon.html content=dashboard_failure_to_proof %}
+    {% include check_icon.html content=dashboard_failure_to_proof style="text-green" %}
  </li>
 </ul>
 
